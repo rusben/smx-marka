@@ -1,1 +1,8 @@
+
 #Marka{color: red;}
+#titulo {text-align: center;
+        border: thin solid black;
+        background-color: black;
+        color: white;
+        float: inherit;
+}

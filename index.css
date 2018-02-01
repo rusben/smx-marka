@@ -5,4 +5,33 @@
         background-color: black;
         color: white;
         float: inherit;
+        border: 1px solid white;
+}
+#marca{
+        width:25%;
+        float:left;
+        text-align: center;
+        background-color:black;
+        color:white;
+}
+#ocio{
+        width:25%;
+        float:left;
+        text-align: center;
+        background-color:black;
+        color:white;
+}
+#unidad {
+        width:25%;
+        float:left;
+        text-align: center;
+        background-color:black;
+        color:white;
+}
+#formacion{
+        width:25%;
+        float:left;
+        text-align: center;
+        background-color:black;
+        color:white;
 }

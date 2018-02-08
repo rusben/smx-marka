@@ -1,4 +1,5 @@
 
+#footer{background-color: black}
 #Marka{color: red;}
 #titulo {text-align: center;
         border: thin solid black;
@@ -10,28 +11,24 @@
 #marca{
         width:25%;
         float:left;
-        text-align: center;
         background-color:black;
         color:white;
 }
 #ocio{
         width:25%;
         float:left;
-        text-align: center;
         background-color:black;
         color:white;
 }
 #unidad {
         width:25%;
         float:left;
-        text-align: center;
         background-color:black;
         color:white;
 }
 #formacion{
         width:25%;
         float:left;
-        text-align: center;
         background-color:black;
         color:white;
 }

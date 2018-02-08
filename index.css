@@ -1,12 +1,19 @@
 
-#footer{background-color: black}
+#menu-columns{background-color: black;}
+
+/* clearfix by css only */
+#menu-columns::after {
+  content: "";
+  display: block;
+  clear: both;
+}
+
+
 #Marka{color: red;}
 #titulo {text-align: center;
-        border: thin solid black;
+        border: thin solid white;
         background-color: black;
         color: white;
-        float: inherit;
-        border: 1px solid white;
 }
 #marca{
         width:25%;
@@ -32,3 +39,5 @@
         background-color:black;
         color:white;
 }
+
+.clearfix { clear:both; }

@@ -8,6 +8,9 @@
   clear: both;
 }
 
+=======
+
+#footer{background-color:black}
 
 #Marka{color: red;}
 #titulo {text-align: center;
@@ -20,24 +23,32 @@
         float:left;
         background-color:black;
         color:white;
+        text-align: left;
+
 }
 #ocio{
         width:25%;
         float:left;
         background-color:black;
         color:white;
+        text-align: left;
+
 }
 #unidad {
         width:25%;
         float:left;
         background-color:black;
         color:white;
+        text-align: left;
+
 }
 #formacion{
         width:25%;
         float:left;
         background-color:black;
         color:white;
+        text-align: left;
+
 }
 
 .clearfix { clear:both; }

@@ -7,12 +7,16 @@
   display: block;
   clear: both;
 }
+#menu{background-color: red;}
+#futbol{float:left;  color:white; padding: 5px;}
+#baloncesto{float:left;  color:white; padding: 5px;}
+#motor{float:left;  color:white; padding: 5px;}
+#polideportivo{float:left;  color:white; padding: 5px;}
 
-=======
+#Marka{color: red;
+      text-align: center;
 
-#footer{background-color:black}
-
-#Marka{color: red;}
+}
 #titulo {text-align: center;
         border: thin solid white;
         background-color: black;

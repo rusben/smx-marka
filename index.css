@@ -8,16 +8,28 @@
   clear: both;
 }
 #menu{background-color: red;}
-#sub-menu{width: 80%; margin:0 auto;        border: thin solid black;}
+#sub-menu{width: 80%; margin:0 auto;}
 
-.menu-columns {float:left;  color:white; padding: 5px;}
+.menu-columns {float:left;
+               color:white;
+               padding-left: 10px;
+               padding-right: 10px;
+               text-align: center;
+}
+.menu-columns2 {float:left;
+                color:white;
+                padding-left: 10px;
+                padding-right: 10px;
+                background-color: Brown ;
+}
 
 #Marka{color: red;
       text-align: center;
+      width: 80%; margin:0 auto;
+
 
 }
 #titulo {text-align: center;
-        border: thin solid white;
         background-color: black;
         color: white;
 }

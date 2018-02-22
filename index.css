@@ -12,12 +12,26 @@
 
 #footer{background-color:black}
 
-#Marka{color: red;}
+#Marka{color: red;
+      text-align: center;
+}
 #titulo {text-align: center;
         border: thin solid white;
         background-color: black;
         color: white;
 }
+
+#Login{background-color:white;
+      color: red;
+      text-align: right;
+
+
+}
+
+
+
+
+
 #marca{
         width:25%;
         float:left;
@@ -50,5 +64,12 @@
         text-align: left;
 
 }
+
+
+
+
+
+
+
 
 .clearfix { clear:both; }

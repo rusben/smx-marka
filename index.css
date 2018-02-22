@@ -7,10 +7,10 @@
   display: block;
   clear: both;
 }
+#menu{background-color: red;}
+#sub-menu{width: 80%; margin:0 auto;        border: thin solid black;}
 
-=======
-
-#footer{background-color:black}
+.menu-columns {float:left;  color:white; padding: 5px;}
 
 #Marka{color: red;
       text-align: center;
@@ -20,6 +20,7 @@
         background-color: black;
         color: white;
 }
+
 
 #Login{background-color:white;
       color: red;
@@ -61,9 +62,14 @@
         float:left;
         background-color:black;
         color:white;
-        text-align: left;
+        text-align: left;}
 
-}
+
+.columns {width:25%;
+          float:left;
+          background-color:black;
+          color:white;
+          text-align: left;}
 
 
 

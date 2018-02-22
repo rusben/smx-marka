@@ -8,10 +8,9 @@
   clear: both;
 }
 #menu{background-color: red;}
-#futbol{float:left;  color:white; padding: 5px;}
-#baloncesto{float:left;  color:white; padding: 5px;}
-#motor{float:left;  color:white; padding: 5px;}
-#polideportivo{float:left;  color:white; padding: 5px;}
+#sub-menu{width: 80%; margin:0 auto;        border: thin solid black;}
+
+.menu-columns {float:left;  color:white; padding: 5px;}
 
 #Marka{color: red;
       text-align: center;
@@ -22,37 +21,11 @@
         background-color: black;
         color: white;
 }
-#marca{
-        width:25%;
-        float:left;
-        background-color:black;
-        color:white;
-        text-align: left;
 
-}
-#ocio{
-        width:25%;
-        float:left;
-        background-color:black;
-        color:white;
-        text-align: left;
-
-}
-#unidad {
-        width:25%;
-        float:left;
-        background-color:black;
-        color:white;
-        text-align: left;
-
-}
-#formacion{
-        width:25%;
-        float:left;
-        background-color:black;
-        color:white;
-        text-align: left;
-
-}
+.columns {width:25%;
+          float:left;
+          background-color:black;
+          color:white;
+          text-align: left;}
 
 .clearfix { clear:both; }

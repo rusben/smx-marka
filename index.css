@@ -10,6 +10,7 @@
 #menu{background-color: red;}
 #sub-menu{width: 80%; margin:0 auto;}
 
+
 .menu-columns {float:left;
                color:white;
                padding-left: 10px;
@@ -22,7 +23,21 @@
                 padding-right: 10px;
                 background-color: Brown ;
 }
+.colums2 {background-color: brown;
+          color: white;
+          padding-left: 10px;
+          padding-right: 10px;
+          float:left;
+          text-align: center;
 
+        }
+
+
+.menu-columns {float:left;
+              color:white;
+              padding-left:10px;
+              padding-right: 10px;
+              text-align: center;}
 #Marka{color: red;
       text-align: center;
       width: 80%; margin:0 auto;
@@ -34,10 +49,63 @@
         color: white;
 }
 
+
+#Login{background-color:white;
+      color: red;
+      text-align: right;
+
+
+}
+
+#sesion {color: red;float: right; border: thin solid black;}
+#sus {color: white;background-color: red;float: right; border: thin solid black;padding-right:10px;}
+
+
+
+
+#marca{
+        width:25%;
+        float:left;
+        background-color:black;
+        color:white;
+        text-align: left;
+
+}
+#ocio{
+        width:25%;
+        float:left;
+        background-color:black;
+        color:white;
+        text-align: left;
+
+}
+#unidad {
+        width:25%;
+        float:left;
+        background-color:black;
+        color:white;
+        text-align: left;
+
+}
+#formacion{
+        width:25%;
+        float:left;
+        background-color:black;
+        color:white;
+        text-align: left;}
+
+
 .columns {width:25%;
           float:left;
           background-color:black;
           color:white;
           text-align: left;}
+
+
+#body {width: 60%; margin:0 auto;}
+
+
+
+
 
 .clearfix { clear:both; }

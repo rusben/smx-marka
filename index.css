@@ -8,15 +8,28 @@
   clear: both;
 }
 #menu{background-color: red;}
-#sub-menu{width: 80%; margin:0 auto;        border: thin solid black;}
+#sub-menu{width: 80%; margin:0 auto;}
+.colums2 {background-color: brown;
+          color: white;
+          padding-left: 10px;
+          padding-right: 10px;
+          float:left;
+          text-align: center;
 
-.menu-columns {float:left;  color:white; padding: 5px;}
+        }
 
+.menu-columns {float:left;
+              color:white;
+              padding-left:10px;
+              padding-right: 10px;
+              text-align: center;}
 #Marka{color: red;
       text-align: center;
+      width: 80%; margin:0 auto;
+
+
 }
 #titulo {text-align: center;
-        border: thin solid white;
         background-color: black;
         color: white;
 }
@@ -29,6 +42,8 @@
 
 }
 
+#sesion {color: red;float: right; border: thin solid black;}
+#sus {color: white;background-color: red;float: right; border: thin solid black;padding-right:10px;}
 
 
 
@@ -72,7 +87,7 @@
           text-align: left;}
 
 
-
+#body {width: 60%; margin:0 auto;}
 
 
 

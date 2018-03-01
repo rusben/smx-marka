@@ -102,10 +102,19 @@
           text-align: left;}
 
 
-#body {width: 60%; margin:0 auto;}
+#body {width: 60%; margin:0 auto;
 
-
-
+}
+#body img{    margin-left: 40px; border-bottom: 2px solid Black; padding-bottom: 6px;
+}
+#midbody
+.subbody {width: 25;
+          float: left;
+          padding-left: 5px;
+          padding-right: 5px;
+          text-align: center;
+          color: Black;
+        }
 
 
 .clearfix { clear:both; }

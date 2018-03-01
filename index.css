@@ -9,6 +9,23 @@
 }
 #menu{background-color: red;}
 #sub-menu{width: 80%; margin:0 auto;}
+
+
+.menu-columns {float:left;
+               color:white;
+               padding-left: 10px;
+               padding-right: 10px;
+               text-align: center;
+}
+
+.menu-columns:hover {float:left;
+               color:white;
+               padding-left: 10px;
+               padding-right: 10px;
+               text-align: center;
+               background-color: black;
+}
+
 .colums2 {background-color: brown;
           color: white;
           padding-left: 10px;
@@ -16,7 +33,18 @@
           float:left;
           text-align: center;
 
-        }
+}
+
+.colums2:hover {background-color: ;
+          color: white;
+          padding-left: 10px;
+          padding-right: 10px;
+          float:left;
+          text-align: center;
+
+          text-decoration: underline;
+}
+
 
 .menu-columns {float:left;
               color:white;
@@ -26,9 +54,8 @@
 #Marka{color: red;
       text-align: center;
       width: 80%; margin:0 auto;
-
-
 }
+
 #titulo {text-align: center;
         background-color: black;
         color: white;
@@ -106,9 +133,11 @@
           background-color: white;
           float: left;
           padding-left: 20%;
-          padding-right: 20%;
+  padding-right: 20%;}
 
-        }
+#putogur{width: 60%; margin:0 auto;
+}
+
 
 .clearfix { clear:both; }
 

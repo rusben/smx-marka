@@ -84,7 +84,9 @@
           float:left;
           background-color:black;
           color:white;
-          text-align: left;}
+          text-align: left;
+      
+        }
 
 
 #body {width: 60%; margin:0 auto;
@@ -100,6 +102,19 @@
           text-align: center;
           color: Black;
         }
+#lastmenu {text-align: center;
+          background-color: white;
+          float: left;
+          padding-left: 20%;
+          padding-right: 20%;
 
+        }
 
 .clearfix { clear:both; }
+
+#smallmarca{
+  float: right;
+  margin-right: 300px;
+  width: 5%;
+  margin:0 auto;
+}

@@ -53,7 +53,6 @@
               text-align: center;}
 #Marka{color: red;
       text-align: center;
-      width: 80%; margin:0 auto;
 }
 
 #titulo {text-align: center;
@@ -62,16 +61,12 @@
 }
 
 
-#Login{background-color:white;
-      color: red;
-      text-align: right;
 
 
-}
-
-#sesion {color: red;float: right; border: thin solid black;}
-#sus {color: white;background-color: red;float: right; border: thin solid black;padding-right:10px;}
-
+#sesion {color: red;float: right; border: thin solid black;margin:10px;font-family: Arial, Helvetica, sans-serif;}
+#sesion:hover{color:white;float: right; border: thin solid black;margin:10px;background-color: black;font-family: Arial, Helvetica, sans-serif;}
+#sus {color: white;background-color: red;float: right; border: thin solid black;margin:10px;font-family: Arial, Helvetica, sans-serif;}
+#sus:hover {color: white;background-color:black;float: right; border: thin solid black;margin:10px;font-family: Arial, Helvetica, sans-serif;}
 
 
 
@@ -112,7 +107,7 @@
           background-color:black;
           color:white;
           text-align: left;
-      
+
         }
 
 
@@ -147,3 +142,5 @@
   width: 5%;
   margin:0 auto;
 }
+
+#big-marca{width: 80%; margin:0 auto;}

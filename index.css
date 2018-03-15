@@ -111,11 +111,10 @@
         }
 
 
-#body {width: 60%; margin:0 auto;
+#body {width: 50%; margin:0 auto; 
 
 }
-#body img{    margin-left: 40px; border-bottom: 2px solid Black; padding-bottom: 6px;
-}
+
 #midbody
 .subbody {width: 25;
           float: left;
@@ -144,4 +143,18 @@
 }
 
 #big-marca{width: 80%; margin:0 auto;}
+
+
+.fotos {width: 30%;
+        border-bottom: 2px solid black;
+        padding-bottom: 6px;
+}
+
+.fotos2 {width: 30%;
+        border-bottom: 2px solid black;
+        padding-bottom: 6px;
+        margin-left: 40px;
+}
+
 .escudo {height: 20px;}
+

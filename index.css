@@ -111,7 +111,7 @@
         }
 
 
-#body {width: 50%; margin:0 auto; 
+#body {width: 60%; margin:0 auto;
 
 }
 
@@ -145,16 +145,21 @@
 #big-marca{width: 80%; margin:0 auto;}
 
 
-.fotos {width: 30%;
+.fotos {width: 25%;
         border-bottom: 2px solid black;
         padding-bottom: 6px;
 }
 
-.fotos2 {width: 30%;
+.fotos2 {width: 25%;
         border-bottom: 2px solid black;
         padding-bottom: 6px;
         margin-left: 40px;
 }
 
-.escudo {height: 20px;}
+.escudo {height: 20px;
+}
 
+#public{float:right;
+        width:40%;
+
+}

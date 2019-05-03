@@ -1,0 +1,165 @@
+
+#menu-columns{background-color: black;}
+
+/* clearfix by css only */
+#menu-columns::after {
+  content: "";
+  display: block;
+  clear: both;
+}
+#menu{background-color: red;}
+#sub-menu{width: 80%; margin:0 auto;}
+
+
+.menu-columns {float:left;
+               color:white;
+               padding-left: 10px;
+               padding-right: 10px;
+               text-align: center;
+}
+
+.menu-columns:hover {float:left;
+               color:white;
+               padding-left: 10px;
+               padding-right: 10px;
+               text-align: center;
+               background-color: black;
+}
+
+.colums2 {background-color: brown;
+          color: white;
+          padding-left: 10px;
+          padding-right: 10px;
+          float:left;
+          text-align: center;
+
+}
+
+.colums2:hover {background-color: ;
+          color: white;
+          padding-left: 10px;
+          padding-right: 10px;
+          float:left;
+          text-align: center;
+
+          text-decoration: underline;
+}
+
+
+.menu-columns {float:left;
+              color:white;
+              padding-left:10px;
+              padding-right: 10px;
+              text-align: center;}
+#Marka{color: red;
+      text-align: center;
+}
+
+#titulo {text-align: center;
+        background-color: black;
+        color: white;
+}
+
+
+
+
+#sesion {color: red;float: right; border: thin solid black;margin:10px;font-family: Arial, Helvetica, sans-serif;}
+#sesion:hover{color:white;float: right; border: thin solid black;margin:10px;background-color: black;font-family: Arial, Helvetica, sans-serif;}
+#sus {color: white;background-color: red;float: right; border: thin solid black;margin:10px;font-family: Arial, Helvetica, sans-serif;}
+#sus:hover {color: white;background-color:black;float: right; border: thin solid black;margin:10px;font-family: Arial, Helvetica, sans-serif;}
+
+
+
+#marca{
+        width:25%;
+        float:left;
+        background-color:black;
+        color:white;
+        text-align: left;
+
+}
+#ocio{
+        width:25%;
+        float:left;
+        background-color:black;
+        color:white;
+        text-align: left;
+
+}
+#unidad {
+        width:25%;
+        float:left;
+        background-color:black;
+        color:white;
+        text-align: left;
+
+}
+#formacion{
+        width:25%;
+        float:left;
+        background-color:black;
+        color:white;
+        text-align: left;}
+
+
+.columns {width:25%;
+          float:left;
+          background-color:black;
+          color:white;
+          text-align: left;
+
+        }
+
+
+#body {width: 60%; margin:0 auto;
+
+}
+
+#midbody
+.subbody {width: 25;
+          float: left;
+          padding-left: 5px;
+          padding-right: 5px;
+          text-align: center;
+          color: Black;
+        }
+#lastmenu {text-align: center;
+          background-color: white;
+          float: left;
+          padding-left: 20%;
+  padding-right: 20%;}
+
+#putogur{width: 60%; margin:0 auto;
+}
+
+
+.clearfix { clear:both; }
+
+#smallmarca{
+  float: right;
+  margin-right: 300px;
+  width: 5%;
+  margin:0 auto;
+}
+
+#big-marca{width: 80%; margin:0 auto;}
+
+
+.fotos {width: 25%;
+        border-bottom: 2px solid black;
+        padding-bottom: 6px;
+}
+
+.fotos2 {width: 25%;
+        border-bottom: 2px solid black;
+        padding-bottom: 6px;
+        margin-left: 40px;
+}
+
+.escudo {height: 20px;
+}
+
+#public{float:right;
+        width:40%;
+
+}
